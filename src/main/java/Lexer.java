@@ -45,5 +45,6 @@ public class Lexer {
     public final static String SQUARE_BRACKET_RIGHT = "]";
     public final static String CURLY_BRACKET_LEFT = "{";
     public final static String CURLY_BRACKET_RIGHT = "}";
-
+    public final static String AT = "@";
+    public final static String QUOTE = "\"";
 }
